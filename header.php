@@ -1,8 +1,8 @@
  <!-- Navbar -->
   <header>
-    <div class="logo"><a href="../ghodaghodi/index.html"><img src="assets/images/logo.jpg" alt="Ghodaghodi Logo"></a></div>
+    <div class="logo"><a href="../ghodaghodi/index.html"><img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.jpg" alt="Ghodaghodi Logo"></a></div>
     <div class="navbar">
-      <!-- <div class="logo">Ghodaghodi</div> -->
+      <div class="logo">Ghodaghodi</div>
       <nav>
         <ul class="nav-links">
           <li><a href="index.html">Home</a></li>

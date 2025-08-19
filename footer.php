@@ -2,8 +2,8 @@
     <footer class="site-footer">
         <div class="footer-flex">
             <div class="footer-left">
-                <img src="assets/images/logo.jpg" alt="Logo">
-                <span class="footer-logo-name">Ghodaghodi Municipality</span>
+                <img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.jpg" alt="Logo">
+                <span class="footer-logo-name">Ghodaghodi</span>
             </div>
             <div class="footer-center">
                 <ul>
@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="footer-content" style="margin-top:18px;">
-            <p class="footer-title">&copy; 2025 Ghodaghodi Municipality. All rights reserved.</p>
+            <p class="footer-title">&copy; 2025 Ghodaghodi. All rights reserved.</p>
             <p class="footer-credit">Designed & Developed by <a style="text-decoration: none; font-weight: bold; color: #80A92F;" href="https://mohrain.com/">Mohrain</a></p>
         </div>
     </footer>
