@@ -57,10 +57,10 @@
 <div class="news-events">
   <h2 >News & Events</h2>
   <ul>
-    <li><a  href="#">Ghodaghodi Lake is also a natural habitat</a></li>
-    <li><a  href="#">Helping farmers around Ghodagodi Lake Area</a></li>
-    <li><a  href="#">Conservation of Crocodiles of Ghodadhodi Lake</a></li>
-    <li><a  href="#">Natural Habitat of Different Birds, Plants, Animals</a></li>
+    <li><a  href="<?php bloginfo('template_directory'); ?>/news1.php">Ghodaghodi Lake is also a natural habitat</a></li>
+    <li><a  href="<?php bloginfo('template_directory'); ?>/news2.php">Helping farmers around Ghodagodi Lake Area</a></li>
+    <li><a  href="<?php bloginfo('template_directory'); ?>/news3.php">Conservation of Crocodiles of Ghodadhodi Lake</a></li>
+    <li><a  href="<?php bloginfo('template_directory'); ?>/news4.php">Natural Habitat of Different Birds, Plants, Animals</a></li>
   </ul>
 </div>
 
