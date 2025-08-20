@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Dummy News Article</title>
+    <title>News Article</title>
     <style>
         body {
             background: #f0f4f8;
